@@ -3,5 +3,7 @@ This is my version of JetBrains Academy Simple_Search_Engine stage 6/6.
 
 A simple but cool search engine program, doing it helped me a lot to practice and optimize the search process. :)
 
+![image](https://user-images.githubusercontent.com/69851038/154707868-90b1a50e-142b-4501-80b3-603d5e22ebd8.png)
+
 
 
